@@ -1,0 +1,68 @@
+*{
+  box-sizing: border-box;
+  }
+body {
+    font-family: Arial, sans-serif;
+    background-color:wheat;
+    text-align: center;
+    padding: 20px;
+    background-image: url(password.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+
+  }
+  
+  h1{
+    margin: 40px auto;
+    text-align:center;
+    background-color :whitesmoke;
+    border-radius: 10px;
+  }
+  
+  .form-container {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 30px;
+  }
+  
+  form {
+    background-color: #fff;
+    border-radius: 5px;
+    padding: 20px;
+    width: 300px;
+  }
+  
+  h2 {
+    margin-top: 0;
+    color: #2a13d3;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  input {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  button {
+    width: 100%;
+    padding: 10px;
+    background-color: #4caf50;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #45a049;
+  }
+  
