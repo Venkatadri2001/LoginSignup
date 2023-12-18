@@ -46,8 +46,8 @@ display: flex;
 
 .login .col-left{
     width: 60%;
-    clip-path: polygon(0 0, 0% 100%, 100% 0 );
-    background: #26ba3c;
+    clip-path: square(0 0, 0% 100%, 100% 0 );
+    background: #bdc1bd;
     }
 
     .login .col-right{
